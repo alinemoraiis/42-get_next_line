@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ados-rei <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ados-rei <ados-rei@student.42lisboa.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/17 21:26:23 by ados-rei          #+#    #+#             */
 /*   Updated: 2022/03/22 13:35:16 by ados-rei         ###   ########.fr       */
