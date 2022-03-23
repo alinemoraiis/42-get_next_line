@@ -17,4 +17,4 @@
 - **ft_substr**: allocates memory and returns a new substring from the string s. The substring begins at index start and is of maximum size len. (Copied from Libft project).
 
 ## :sunglasses: Used test
-[gnlTester](https://github.com/Tripouille/gnlTester)
+- [gnlTester](https://github.com/Tripouille/gnlTester)
