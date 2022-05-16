@@ -2,9 +2,9 @@
 - This project is about coding a function that allow you read a text file pointed to by the file descriptor and return one line at a time. Introduction to **static variables**.
 
 ## :sunglasses: Files
-- **get_next_line.c**: file with the main functions.
-- **get_next_line_utils.c**: file with helper functions.
-- **get_next_line.h**: header file with all declarated functions.
+- **[get_next_line.c](https://github.com/alinemoraiis/42-get_next_line/blob/main/get_next_line.c)**: file with the main functions.
+- **[get_next_line_utils.c](https://github.com/alinemoraiis/42-get_next_line/blob/main/get_next_line_utils.c)**: file with helper functions.
+- **[get_next_line.h](https://github.com/alinemoraiis/42-get_next_line/blob/main/get_next_line.h)**: header file with all declarated functions.
 
 ## :sunglasses: Functions
 - **get_next_line**: main function. Return line by line.
